@@ -1,0 +1,8 @@
+
+body.neon{background:#07070a;color:#e9eef6;font-family:Inter,Arial,Helvetica,sans-serif}
+header{display:flex;justify-content:space-between;align-items:center;padding:14px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;padding:18px}
+.card{background:#0b0d10;padding:12px;border-radius:8px}
+.center{max-width:720px;margin:60px auto;padding:20px}
+.wrap{padding:18px}
+textarea{width:100%;height:80px;margin:6px 0}

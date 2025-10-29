@@ -1,0 +1,1 @@
+Flask version. Run: python -m venv .venv ; .\.venv\Scripts\Activate.ps1 ; pip install flask ; python app.py\n

@@ -1,0 +1,1 @@
+FROM python:3.11-slim\nWORKDIR /app\nCOPY . /app\nRUN pip install --no-cache-dir flask\nEXPOSE 5000\nCMD ["python","app.py"]\n
